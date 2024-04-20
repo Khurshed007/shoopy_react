@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoopy_react/static/css/main.a348a900.css",
+    "main.js": "/shoopy_react/static/js/main.b2d1483f.js",
+    "index.html": "/shoopy_react/index.html",
+    "main.a348a900.css.map": "/shoopy_react/static/css/main.a348a900.css.map",
+    "main.b2d1483f.js.map": "/shoopy_react/static/js/main.b2d1483f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a348a900.css",
+    "static/js/main.b2d1483f.js"
+  ]
+}
